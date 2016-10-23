@@ -10,7 +10,7 @@ namespace TestApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Test line");
+            Console.WriteLine("Feature line");
             Console.WriteLine("Test line2");
 
             Console.ReadLine();
