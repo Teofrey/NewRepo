@@ -10,6 +10,8 @@ namespace TestApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Feature change2");
+
             Console.WriteLine("Feature line");
             Console.WriteLine("Master change");
 
