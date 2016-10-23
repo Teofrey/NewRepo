@@ -13,6 +13,8 @@ namespace TestApp
             Console.WriteLine("Feature line");
             Console.WriteLine("Master change");
 
+            Console.WriteLine("Master change2");
+
             Console.ReadLine();
         }
     }
